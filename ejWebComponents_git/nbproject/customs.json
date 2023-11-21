@@ -1,0 +1,15 @@
+{
+    "elements": {
+        "employee-card": {
+            "attributes": {
+                "phone": {},
+                "jobTitle": {},
+                "name": {},
+                "avatar": {},
+                "id": {},
+                "email": {}
+            }
+        }
+    },
+    "attributes": {}
+}
